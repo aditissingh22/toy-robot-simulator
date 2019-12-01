@@ -7,7 +7,7 @@ import com.trb.exception.ToyRobotException;
 import com.trb.simulator.SquareBoard;
 import com.trb.simulator.ToyRobot;
 
-public class MainApplication {
+public class Main {
 
 	public static void main(String[] args) {
 
